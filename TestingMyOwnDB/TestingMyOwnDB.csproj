@@ -49,6 +49,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AwesomeClass.cs" />
     <Compile Include="CustomTableProcedure.cs" />
     <Compile Include="ExceptionLogger.cs" />
     <Compile Include="Program.cs" />
