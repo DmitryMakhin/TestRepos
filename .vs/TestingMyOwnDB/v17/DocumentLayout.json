@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dmitry\\source\\repos\\TestingMyOwnDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE64F38-DBF6-4B4C-B0DC-389314C24E65}|TestingMyOwnDB\\TestingMyOwnDB.csproj|c:\\users\\dmitry\\source\\repos\\testingmyowndb\\testingmyowndb\\testprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE64F38-DBF6-4B4C-B0DC-389314C24E65}|TestingMyOwnDB\\TestingMyOwnDB.csproj|solutionrelative:testingmyowndb\\testprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE64F38-DBF6-4B4C-B0DC-389314C24E65}|TestingMyOwnDB\\TestingMyOwnDB.csproj|c:\\users\\dmitry\\source\\repos\\testingmyowndb\\testingmyowndb\\customtableprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE64F38-DBF6-4B4C-B0DC-389314C24E65}|TestingMyOwnDB\\TestingMyOwnDB.csproj|solutionrelative:testingmyowndb\\customtableprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE64F38-DBF6-4B4C-B0DC-389314C24E65}|TestingMyOwnDB\\TestingMyOwnDB.csproj|c:\\users\\dmitry\\source\\repos\\testingmyowndb\\testingmyowndb\\exceptionlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE64F38-DBF6-4B4C-B0DC-389314C24E65}|TestingMyOwnDB\\TestingMyOwnDB.csproj|solutionrelative:testingmyowndb\\exceptionlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE64F38-DBF6-4B4C-B0DC-389314C24E65}|TestingMyOwnDB\\TestingMyOwnDB.csproj|c:\\users\\dmitry\\source\\repos\\testingmyowndb\\testingmyowndb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE64F38-DBF6-4B4C-B0DC-389314C24E65}|TestingMyOwnDB\\TestingMyOwnDB.csproj|solutionrelative:testingmyowndb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/my/True/SqlTable/dbo.table1.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExceptionLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitry\\source\\repos\\TestingMyOwnDB\\TestingMyOwnDB\\ExceptionLogger.cs",
+              "RelativeDocumentMoniker": "TestingMyOwnDB\\ExceptionLogger.cs",
+              "ToolTip": "C:\\Users\\Dmitry\\source\\repos\\TestingMyOwnDB\\TestingMyOwnDB\\ExceptionLogger.cs",
+              "RelativeToolTip": "TestingMyOwnDB\\ExceptionLogger.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T14:56:47.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestProcedure.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitry\\source\\repos\\TestingMyOwnDB\\TestingMyOwnDB\\TestProcedure.cs",
+              "RelativeDocumentMoniker": "TestingMyOwnDB\\TestProcedure.cs",
+              "ToolTip": "C:\\Users\\Dmitry\\source\\repos\\TestingMyOwnDB\\TestingMyOwnDB\\TestProcedure.cs",
+              "RelativeToolTip": "TestingMyOwnDB\\TestProcedure.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T14:33:01.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomTableProcedure.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitry\\source\\repos\\TestingMyOwnDB\\TestingMyOwnDB\\CustomTableProcedure.cs",
+              "RelativeDocumentMoniker": "TestingMyOwnDB\\CustomTableProcedure.cs",
+              "ToolTip": "C:\\Users\\Dmitry\\source\\repos\\TestingMyOwnDB\\TestingMyOwnDB\\CustomTableProcedure.cs",
+              "RelativeToolTip": "TestingMyOwnDB\\CustomTableProcedure.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBAAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T14:24:15.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitry\\source\\repos\\TestingMyOwnDB\\TestingMyOwnDB\\Program.cs",
+              "RelativeDocumentMoniker": "TestingMyOwnDB\\Program.cs",
+              "ToolTip": "C:\\Users\\Dmitry\\source\\repos\\TestingMyOwnDB\\TestingMyOwnDB\\Program.cs",
+              "RelativeToolTip": "TestingMyOwnDB\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T14:17:30.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.table1 [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/my/True/SqlTable/dbo.table1.sql",
+              "ToolTip": "dbo.table1 [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-02T14:21:37.371Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
