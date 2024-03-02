@@ -1,25 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Dmitry\\source\\repos\\TestingMyOwnDB\\",
+  "WorkspaceRootPath": "C:\\Users\\Dmitry\\source\\repos\\Something\\TestRepos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BEE64F38-DBF6-4B4C-B0DC-389314C24E65}|TestingMyOwnDB\\TestingMyOwnDB.csproj|c:\\users\\dmitry\\source\\repos\\testingmyowndb\\testingmyowndb\\awesomeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BEE64F38-DBF6-4B4C-B0DC-389314C24E65}|TestingMyOwnDB\\TestingMyOwnDB.csproj|c:\\users\\dmitry\\source\\repos\\something\\testrepos\\testingmyowndb\\omemoreawesomeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE64F38-DBF6-4B4C-B0DC-389314C24E65}|TestingMyOwnDB\\TestingMyOwnDB.csproj|solutionrelative:testingmyowndb\\omemoreawesomeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE64F38-DBF6-4B4C-B0DC-389314C24E65}|TestingMyOwnDB\\TestingMyOwnDB.csproj|c:\\users\\dmitry\\source\\repos\\something\\testrepos\\testingmyowndb\\awesomeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEE64F38-DBF6-4B4C-B0DC-389314C24E65}|TestingMyOwnDB\\TestingMyOwnDB.csproj|solutionrelative:testingmyowndb\\awesomeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEE64F38-DBF6-4B4C-B0DC-389314C24E65}|TestingMyOwnDB\\TestingMyOwnDB.csproj|c:\\users\\dmitry\\source\\repos\\testingmyowndb\\testingmyowndb\\testprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BEE64F38-DBF6-4B4C-B0DC-389314C24E65}|TestingMyOwnDB\\TestingMyOwnDB.csproj|C:\\Users\\Dmitry\\source\\repos\\Something\\TestRepos\\testingmyowndb\\testprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEE64F38-DBF6-4B4C-B0DC-389314C24E65}|TestingMyOwnDB\\TestingMyOwnDB.csproj|solutionrelative:testingmyowndb\\testprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEE64F38-DBF6-4B4C-B0DC-389314C24E65}|TestingMyOwnDB\\TestingMyOwnDB.csproj|C:\\Users\\Dmitry\\source\\repos\\TestingMyOwnDB\\testingmyowndb\\customtableprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BEE64F38-DBF6-4B4C-B0DC-389314C24E65}|TestingMyOwnDB\\TestingMyOwnDB.csproj|C:\\Users\\Dmitry\\source\\repos\\Something\\TestRepos\\testingmyowndb\\customtableprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEE64F38-DBF6-4B4C-B0DC-389314C24E65}|TestingMyOwnDB\\TestingMyOwnDB.csproj|solutionrelative:testingmyowndb\\customtableprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEE64F38-DBF6-4B4C-B0DC-389314C24E65}|TestingMyOwnDB\\TestingMyOwnDB.csproj|C:\\Users\\Dmitry\\source\\repos\\TestingMyOwnDB\\testingmyowndb\\exceptionlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BEE64F38-DBF6-4B4C-B0DC-389314C24E65}|TestingMyOwnDB\\TestingMyOwnDB.csproj|C:\\Users\\Dmitry\\source\\repos\\Something\\TestRepos\\testingmyowndb\\exceptionlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEE64F38-DBF6-4B4C-B0DC-389314C24E65}|TestingMyOwnDB\\TestingMyOwnDB.csproj|solutionrelative:testingmyowndb\\exceptionlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEE64F38-DBF6-4B4C-B0DC-389314C24E65}|TestingMyOwnDB\\TestingMyOwnDB.csproj|C:\\Users\\Dmitry\\source\\repos\\TestingMyOwnDB\\testingmyowndb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BEE64F38-DBF6-4B4C-B0DC-389314C24E65}|TestingMyOwnDB\\TestingMyOwnDB.csproj|C:\\Users\\Dmitry\\source\\repos\\Something\\TestRepos\\testingmyowndb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEE64F38-DBF6-4B4C-B0DC-389314C24E65}|TestingMyOwnDB\\TestingMyOwnDB.csproj|solutionrelative:testingmyowndb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -38,23 +42,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "OmeMoreAwesomeClass.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitry\\source\\repos\\Something\\TestRepos\\TestingMyOwnDB\\OmeMoreAwesomeClass.cs",
+              "RelativeDocumentMoniker": "TestingMyOwnDB\\OmeMoreAwesomeClass.cs",
+              "ToolTip": "C:\\Users\\Dmitry\\source\\repos\\Something\\TestRepos\\TestingMyOwnDB\\OmeMoreAwesomeClass.cs",
+              "RelativeToolTip": "TestingMyOwnDB\\OmeMoreAwesomeClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T16:09:39.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AwesomeClass.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitry\\source\\repos\\TestingMyOwnDB\\TestingMyOwnDB\\AwesomeClass.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitry\\source\\repos\\Something\\TestRepos\\TestingMyOwnDB\\AwesomeClass.cs",
               "RelativeDocumentMoniker": "TestingMyOwnDB\\AwesomeClass.cs",
-              "ToolTip": "C:\\Users\\Dmitry\\source\\repos\\TestingMyOwnDB\\TestingMyOwnDB\\AwesomeClass.cs",
+              "ToolTip": "C:\\Users\\Dmitry\\source\\repos\\Something\\TestRepos\\TestingMyOwnDB\\AwesomeClass.cs",
               "RelativeToolTip": "TestingMyOwnDB\\AwesomeClass.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-02T16:02:56.435Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ExceptionLogger.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitry\\source\\repos\\TestingMyOwnDB\\TestingMyOwnDB\\ExceptionLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitry\\source\\repos\\Something\\TestRepos\\TestingMyOwnDB\\ExceptionLogger.cs",
               "RelativeDocumentMoniker": "TestingMyOwnDB\\ExceptionLogger.cs",
-              "ToolTip": "C:\\Users\\Dmitry\\source\\repos\\TestingMyOwnDB\\TestingMyOwnDB\\ExceptionLogger.cs",
+              "ToolTip": "C:\\Users\\Dmitry\\source\\repos\\Something\\TestRepos\\TestingMyOwnDB\\ExceptionLogger.cs",
               "RelativeToolTip": "TestingMyOwnDB\\ExceptionLogger.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAAwAwAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -62,24 +79,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TestProcedure.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitry\\source\\repos\\TestingMyOwnDB\\TestingMyOwnDB\\TestProcedure.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitry\\source\\repos\\Something\\TestRepos\\TestingMyOwnDB\\TestProcedure.cs",
               "RelativeDocumentMoniker": "TestingMyOwnDB\\TestProcedure.cs",
-              "ToolTip": "C:\\Users\\Dmitry\\source\\repos\\TestingMyOwnDB\\TestingMyOwnDB\\TestProcedure.cs",
+              "ToolTip": "C:\\Users\\Dmitry\\source\\repos\\Something\\TestRepos\\TestingMyOwnDB\\TestProcedure.cs",
               "RelativeToolTip": "TestingMyOwnDB\\TestProcedure.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T14:33:01.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-02T14:33:01.921Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CustomTableProcedure.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitry\\source\\repos\\TestingMyOwnDB\\TestingMyOwnDB\\CustomTableProcedure.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitry\\source\\repos\\Something\\TestRepos\\TestingMyOwnDB\\CustomTableProcedure.cs",
               "RelativeDocumentMoniker": "TestingMyOwnDB\\CustomTableProcedure.cs",
-              "ToolTip": "C:\\Users\\Dmitry\\source\\repos\\TestingMyOwnDB\\TestingMyOwnDB\\CustomTableProcedure.cs",
+              "ToolTip": "C:\\Users\\Dmitry\\source\\repos\\Something\\TestRepos\\TestingMyOwnDB\\CustomTableProcedure.cs",
               "RelativeToolTip": "TestingMyOwnDB\\CustomTableProcedure.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAqwBAAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -87,11 +103,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitry\\source\\repos\\TestingMyOwnDB\\TestingMyOwnDB\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitry\\source\\repos\\Something\\TestRepos\\TestingMyOwnDB\\Program.cs",
               "RelativeDocumentMoniker": "TestingMyOwnDB\\Program.cs",
-              "ToolTip": "C:\\Users\\Dmitry\\source\\repos\\TestingMyOwnDB\\TestingMyOwnDB\\Program.cs",
+              "ToolTip": "C:\\Users\\Dmitry\\source\\repos\\Something\\TestRepos\\TestingMyOwnDB\\Program.cs",
               "RelativeToolTip": "TestingMyOwnDB\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -99,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "dbo.table1 [\u0414\u0430\u043D\u043D\u044B\u0435]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/my/True/SqlTable/dbo.table1.sql",
               "ToolTip": "dbo.table1 [\u0414\u0430\u043D\u043D\u044B\u0435]",

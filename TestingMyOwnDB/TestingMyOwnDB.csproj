@@ -52,6 +52,7 @@
     <Compile Include="AwesomeClass.cs" />
     <Compile Include="CustomTableProcedure.cs" />
     <Compile Include="ExceptionLogger.cs" />
+    <Compile Include="OmeMoreAwesomeClass.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestProcedure.cs" />
